@@ -18,6 +18,9 @@ Tailwind CSS<br>
 👉 Custom Video Carousel (made with GSAP): Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.<br>
 👉 Completely Responsive: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes and many more, including code architecture and reusability.<br>
 
+# Demo:<br>
+You can view the live here : https://3d-animated.netlify.app/
+
 # 🤸 Quick Start<br>
 Follow these steps to set up the project locally on your machine.<br>
 Prerequisites<br>
