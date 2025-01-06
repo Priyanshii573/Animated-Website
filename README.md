@@ -24,7 +24,7 @@ Git
 Node.js
 npm (Node Package Manager)
 
-Cloning the Repository
+Cloning the Repository:
 git clone https://github.com/Priyanshii573/Animated-Website.git
 cd Animated_Website
 
